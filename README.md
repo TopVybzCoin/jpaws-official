@@ -1,4 +1,8 @@
+![JPAWS Banner](jpaws-banner.png)
+
 # Jackpot Paws (JPAWS)
+
+![JPAWS Logo](jpaws-logo.png)
 
 Official JPAWS project hub on Solana.
 
