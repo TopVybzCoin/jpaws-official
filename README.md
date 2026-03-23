@@ -1,6 +1,6 @@
-![JPAWS Banner](jpaws-banner.png)
-
 # Jackpot Paws (JPAWS)
+
+![JPAWS Banner](jpaws-banner.png)
 
 ![JPAWS Logo](jpaws-logo.png)
 
